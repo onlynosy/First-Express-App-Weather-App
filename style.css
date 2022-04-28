@@ -1,0 +1,31 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:"Montserrat",sans-serif;
+}
+
+#main-section{
+	background-color:9FB4FF;
+	margin:100px auto auto auto;
+	padding:3% 10% 10% 10%;
+	text-align:center;
+}
+
+.main-title{
+	font-weight:700;
+	font-size:3rem;
+	color:#F7F5F2;
+	margin-bottom:3%;
+	margin-top:8%;
+}
+
+.temprature {
+	font-size:2rem;
+	color:#F7F5F2;
+	margin-bottom:3%;
+}
+
+footer {
+	text-align:right;
+	float:bottom;
+}
